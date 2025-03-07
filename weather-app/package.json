@@ -1,0 +1,14 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A simple web application to display the current temperature of Guthrie, Oklahoma.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server public"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
